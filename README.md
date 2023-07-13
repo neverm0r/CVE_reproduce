@@ -1,1 +1,1 @@
-A collection of linux kernel CVE writeup
+A collection of linux kernel CVE exploits written by me.
